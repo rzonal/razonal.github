@@ -1,0 +1,48 @@
+
+#Hi{
+text-align: center;
+color: beige;
+font-weight: bolder;
+list-style: none;
+ text-decoration:none;
+     text-shadow: 2px 2px 2px #333;
+ 
+}
+#poto{
+    margin: auto;
+    display: block;
+   
+    border-radius: 16px;
+
+    width: 200px;
+}
+#poto2{
+    width: 50%; 
+     display: block;
+     margin: auto;
+     border-radius: 14px;
+}
+.lista{
+    color: beige;
+    font-weight: bold;
+    font-size: 37px;
+
+}
+#par{
+    color: black;
+    font-weight: bold;
+    font-family: 'IM Fell Double Pica SC'; font-size: 22px;
+}
+
+
+body {background-image: url(back4.jpeg);
+    background-size: cover;
+    margin: auto;
+    font-family: 'Jacques Francois Shadow';font-size: 22px;
+
+}
+
+#bottom{
+    text-align-last: center;
+}
+
